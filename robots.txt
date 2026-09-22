@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cashdenominationcalculatorfree.github.io/sitemap.xml
